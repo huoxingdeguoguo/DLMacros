@@ -1,0 +1,22 @@
+{
+  "name": "DLMacros",
+  "version": "0.1.0",
+  "summary": "A short description of DLMacros.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/geniousli/DLMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "geniousli": "dulele@gaosiedu.com"
+  },
+  "source": {
+    "git": "https://github.com/geniousli/DLMacros.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DLMacros/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_DLMacros_Tests {
+  umbrella header "Pods-DLMacros_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

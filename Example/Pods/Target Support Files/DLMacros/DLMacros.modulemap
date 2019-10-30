@@ -1,0 +1,6 @@
+framework module DLMacros {
+  umbrella header "DLMacros-umbrella.h"
+
+  export *
+  module * { export * }
+}
